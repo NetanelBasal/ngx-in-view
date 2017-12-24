@@ -1,6 +1,6 @@
 {
-  "name": "ngx-event-modifiers",
-  "description": "Event Modifiers for Angular Applications",
+  "name": "ngx-in-view",
+  "description": "Emits an event when element is in viewport",
   "version": "1.0.0",
   "scripts": {
     "build": "gulp build",
@@ -15,23 +15,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetanelBasal/ngx-event-modifiers"
+    "url": "https://github.com/NetanelBasal/ngx-in-view"
   },
   "author": {
     "name": "Netanel Basal",
     "email": "netanel7799@gmail.com"
   },
   "keywords": [
-    "Angular events",
-    "Angular directives events",
-    "StopPropagation",
-    "PreventDefault",
-    "Once",
-    "Outside event"
+    "Angular",
+    "in viewport",
+    "is visible"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NetanelBasal/ngx-event-modifiers/issues"
+    "url": "https://github.com/NetanelBasal/ngx-in-view/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",

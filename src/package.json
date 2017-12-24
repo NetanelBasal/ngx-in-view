@@ -1,0 +1,29 @@
+{
+  "name": "ngx-in-view",
+  "version": "1.0.0",
+  "description": "Emits an event when element is in viewport",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NetanelBasal/ngx-in-view"
+  },
+  "author": {
+    "name": "Netanel Basal",
+    "email": "netanel7799@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "ngx-in-view.umd.js",
+  "module": "ngx-in-view.js",
+  "jsnext:main": "ngx-in-view.js",
+  "typings": "ngx-in-view.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
